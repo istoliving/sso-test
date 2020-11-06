@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.zhanglailong.persys.mapper.AreaMapper">
+
+    <!-- 通用查询映射结果 -->
+    <resultMap id="BaseResultMap" type="com.zhanglailong.persys.entity.Area">
+        <id column="id" property="id" />
+        <result column="pid" property="pid" />
+        <result column="areaname" property="areaname" />
+        <result column="type" property="type" />
+    </resultMap>
+
+    <!-- 通用查询结果列 -->
+    <sql id="Base_Column_List">
+        id, pid, areaname, type
+    </sql>
+
+    <resultMap id="mapVo" type="com.zhanglailong.persys.entity.Area">
+        <id column="id" property="id" />
+        <result column="pid" property="pid" />
+        <result column="areaname" property="areaname" />
+        <result column="type" property="type" />
+        <!--市-->
+        <collection property="list" ofType="com.zhanglailong.persys.entity.Area">
+            <id column="id1" property="id"></id>
+            <result column="areaname1" property="areaname"></result>
+            <!--区-->
+            <collection property="list" ofType="com.zhanglailong.persys.entity.Area">
+                <id column="id2" property="id"></id>
+                <result column="areaname2" property="areaname"></result>
+            </collection>
+        </collection>
+
+
+    </resultMap>
+
+    <select id="findbyPid" resultMap="mapVo">
+            SELECT
+            p.*,c.id id1,
+            c.areaname areaname1,
+            d.id id2,
+            d.areaname areaname2
+        FROM
+            area p
+        LEFT JOIN area c ON p.id = c.pid
+        LEFT JOIN area d ON c.id = d.pid
+        WHERE
+            p.pid = #{pid}
+    </select>
+</mapper>

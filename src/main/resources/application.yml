@@ -1,0 +1,47 @@
+spring:
+  security:
+    user:
+      name: admin
+      password: 123456
+  datasource:
+    # 基本属性
+    url: jdbc:mysql://127.0.0.1:3306/test?autoReconnect=true&useUnicode=true&characterEncoding=utf-8&allowMultiQueries=true&zeroDateTimeBehavior=convertToNull&useSSL=false
+    username: root
+    password: root
+    driver-class-name: com.mysql.jdbc.Driver
+    ###################以下为druid增加的配置###########################
+    # 配置druid数据连接池
+    type: com.alibaba.druid.pool.DruidDataSource
+    druid:
+      # 连接池的初始大小、最小、最大
+      initial-size: 5
+      min-idle: 2
+      max-active: 20
+      # 获取连接的超时时间
+      max-wait: 60000
+      time-between-eviction-runs-millis: 60000
+      # 一个连接在池中最小生存的时间
+      min-evictable-idle-time-millis: 30000
+      validation-query: SELECT 1 FROM DUAL
+      test-while-idle: true
+      test-on-return: false
+      test-on-borrow: false
+      pool-prepared-statements: false
+      max-pool-prepared-statement-per-connection-size: 20
+      # 监控统计拦截的filters
+      filters: stat,wall,log4j
+
+      filter:
+        stat:
+          merge-sql: true
+          slow-sql-millis: 5000
+
+  jpa:
+    generate-ddl: false
+    show-sql: true
+    hibernate:
+      ddl-auto: update
+    open-in-view: false
+
+  # 配置thymeleaf视图
+
