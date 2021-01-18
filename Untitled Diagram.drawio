@@ -1,1 +1,250 @@
-<mxfile host="app.diagrams.net" modified="2021-01-18T01:42:02.629Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="nsdqZQ3b--65eV6Pa_6N" version="14.2.4" type="github"><diagram name="Page-1" id="822b0af5-4adb-64df-f703-e8dfc1f81529">7VxLc+I4EP41HJOyLL90nGSG2cNuVWqzj5nTlLEFqGIsSogA8+tXwpJBlmHMw2A2cAlqy7Lp7+uHulXpwefJ8iuLp+M/aIqznuukyx783HNd1wFA/JGSVSFBCBWCESNpIQIbwSv5iZXQUdI5SfHMmMgpzTiZmsKE5jlOuCGLGaMLc9qQZuZTp/EIW4LXJM5s6b8k5WMlBY6zufAbJqOxenTkqwuDOHkbMTrP1fN6LhyuP8XlSazXUvNn4ziliy0R/NKDz4xSXnybLJ9xJnWr1Vbc199xtXxvhnPe5IYwRRAOHJSi0PdxkjwAr1jiPc7mShl/4hmdswSvFcnwjKtX5yutLs5InI/k6GkxJhy/TuNEXloIdgjZmE8yMQLi61o1WD7cEaPy18tBQick0Rc4o2+l6uWNQ5rzfjwhmWTUP5ilcR4LcUqYwJ/QXEhzyuT0pywe4OyFzoiSJ0IXmIkL75hxIkD+vTJhQDmnEzEhzsio9o5P6gKn8vfYSlZ6l9PxckuklP4V0wnmbCWmqKsRVARQBuLq8WJDN1/LxltM82GoaK4oPirX3sAsviikm6LuWqj/PRMauCN+NsQ9x0QcuRbgbhTYgEPPaQNwaAFuYSyWEP72ChCfQ9shNLQN3cBSN/BcW93Ia0Hbtk+1lP1rps6mRaQbkqXU9TYA9aQt9P1MM8rWtpLjAp2pfORkOZKh+zEhwpSXj4VVUbb6Icz+fW0JDVFtD0PgBCaIgWdhGPg2hFH06LcAot95EIckw53Cz6/gp9PCLQBDUGODbYS4oDbCzbqG4Xz9Uh1Az9dgaQ8KkW193mON/fltWB/qvPVxusCsQ+ZXBRAg2Mx9tgEfaOA9bznfQCEylO15dj5fbvq2tQ3aSe9sb/eZzOJBJrTmOvO749ufdpiZuheG1/R8ILy7vlMhhNDOPC7n+6La1OO+uT7f5hr4kQl4aG/3Lrm7bpCt3HK0A0Els4fADnf12+s21K3j6j23b4wfqiT3bk1ueLkQV/6Ce4g7GkJQl6VcKsTV4GVqaAuLdTx5KvskVfXzmPFPsoVTkfWJfJ31YjhP9YxBRpO3QqQmAAvYngsd8en3D/GSUqz6Uro4XoOXaozsjwLi7UeY75qk4MCp0ZGycWc4izl5NxtU5wUR3kHcWSi/GRA9O9MQb/WqhgqMnbjiJeHfpFj4/mL0/YYRL8aVBR1nnwfeTwa/ARk6xAW76PIXm8sNh3o4zWdjMrUIc2U77/cVSEejLkBlq2+a0nLwveR0MhchPFXXdtJgv7lHDSFWsfrBeXSAjsUqXD/ojLkxDdTyL5TkfHuri8yFy06yXqNgtLptwyZ7Jb/ak67ujQqlWCsJeOPV1rSpnDDb88rVVigAxiEF8aVYsnK7Xp8OhzPMe1XLKPV+pLHYJbNDjWUf7W7TkM5hLO7hxhJ4nkEQz7+urRzKcORWCO52geB2HfF1lSdjRnPyc83v5ulfyXTnMQojk+0ehFrwghkRryx3TOsVLmYEl8kNvXZiBYReZNIUnEb/lnlllzd/xatDMtKPyBnvYM64KAg6TRK7InpOkmz5I7TJAFX09dHdH50SjgGq+KOSoN3kGrSrifd+y5kPM0Zm/b+uRXrBfgt0LcRtd3LD/RbfDwx1hzUHqWrbLRFqQ9v22dF7u2UvfMjczoRuzUHGy3VbYPePo3at21JF0A8jG8FLNVugXda7x7cznyfwHLNS4AU157kuGODs4tT/KsABLzRTzADZLrL+QEHQhrrtUsk9wu3FzweVDMW56pk5aNckuoZd10KcBaEfXPHMnD5sfmIbU38/qA5/5ZblTiz37v31FuhW+tQ6TJ7ap/44AAc3BrBdhTm4n3Y1K+5CC3r/SYQmtT5dCGta65OdNx0oT2y1BdUz9NWDn2fqJUeo0rMOO9Bp03lqK9Q/scl8Ew3lM1C/qSMsqQ9d3SDVTdujDmgcfBgCVk6u6yPS12WwXeJrqV0jT5IbPIaO1zu+XXOB1syxvD0rbS8Qv+0qYUsU8D3PpEAYBB+YAgcGbdmgC1HFdaHTgvgpzkUMN/++ppi++R9B8Mt/</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-01-18T03:28:05.187Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="ycRAc2Fn-iHXdVNguTkP" version="14.2.4" type="github">
+  <diagram name="Page-1" id="822b0af5-4adb-64df-f703-e8dfc1f81529">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TaTh_OdgcU_0m1zpJvs_-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TaTh_OdgcU_0m1zpJvs_-3" target="TaTh_OdgcU_0m1zpJvs_-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TaTh_OdgcU_0m1zpJvs_-39" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;1.1&lt;/font&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TaTh_OdgcU_0m1zpJvs_-5">
+          <mxGeometry x="-0.2483" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TaTh_OdgcU_0m1zpJvs_-3" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;传统终端&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TaTh_OdgcU_0m1zpJvs_-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TaTh_OdgcU_0m1zpJvs_-4" target="TaTh_OdgcU_0m1zpJvs_-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TaTh_OdgcU_0m1zpJvs_-40" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;1.2&lt;/font&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TaTh_OdgcU_0m1zpJvs_-7">
+          <mxGeometry x="-0.3" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TaTh_OdgcU_0m1zpJvs_-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TaTh_OdgcU_0m1zpJvs_-4" target="TaTh_OdgcU_0m1zpJvs_-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="520" y="140" />
+              <mxPoint x="760" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TaTh_OdgcU_0m1zpJvs_-42" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;1.3&lt;/font&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TaTh_OdgcU_0m1zpJvs_-36">
+          <mxGeometry x="-0.2114" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TaTh_OdgcU_0m1zpJvs_-4" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;sie&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TaTh_OdgcU_0m1zpJvs_-6" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;额度系统&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TaTh_OdgcU_0m1zpJvs_-10" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;2.1&lt;/font&gt;&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TaTh_OdgcU_0m1zpJvs_-8" target="TaTh_OdgcU_0m1zpJvs_-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TaTh_OdgcU_0m1zpJvs_-8" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;移动终端&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TaTh_OdgcU_0m1zpJvs_-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TaTh_OdgcU_0m1zpJvs_-9" target="TaTh_OdgcU_0m1zpJvs_-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TaTh_OdgcU_0m1zpJvs_-43" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;2.2&lt;/font&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TaTh_OdgcU_0m1zpJvs_-14">
+          <mxGeometry x="-0.25" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TaTh_OdgcU_0m1zpJvs_-47" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;3.2&lt;/font&gt;&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="TaTh_OdgcU_0m1zpJvs_-9" target="TaTh_OdgcU_0m1zpJvs_-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TaTh_OdgcU_0m1zpJvs_-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TaTh_OdgcU_0m1zpJvs_-9" target="TaTh_OdgcU_0m1zpJvs_-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TaTh_OdgcU_0m1zpJvs_-9" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;前置系统&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TaTh_OdgcU_0m1zpJvs_-12" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;3.1&lt;/font&gt;&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TaTh_OdgcU_0m1zpJvs_-11" target="TaTh_OdgcU_0m1zpJvs_-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="215" y="310" />
+              <mxPoint x="215" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TaTh_OdgcU_0m1zpJvs_-11" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;大客户系统&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TaTh_OdgcU_0m1zpJvs_-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TaTh_OdgcU_0m1zpJvs_-13" target="TaTh_OdgcU_0m1zpJvs_-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TaTh_OdgcU_0m1zpJvs_-45" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;2.4&lt;/font&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TaTh_OdgcU_0m1zpJvs_-18">
+          <mxGeometry x="-0.6667" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TaTh_OdgcU_0m1zpJvs_-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="TaTh_OdgcU_0m1zpJvs_-13" target="TaTh_OdgcU_0m1zpJvs_-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="520" y="170" />
+              <mxPoint x="750" y="170" />
+              <mxPoint x="750" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TaTh_OdgcU_0m1zpJvs_-44" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;2.3&lt;/font&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TaTh_OdgcU_0m1zpJvs_-37">
+          <mxGeometry x="-0.3543" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TaTh_OdgcU_0m1zpJvs_-50" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;3.3&lt;/font&gt;&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TaTh_OdgcU_0m1zpJvs_-13" target="TaTh_OdgcU_0m1zpJvs_-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TaTh_OdgcU_0m1zpJvs_-13" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;sie&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TaTh_OdgcU_0m1zpJvs_-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TaTh_OdgcU_0m1zpJvs_-17" target="TaTh_OdgcU_0m1zpJvs_-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TaTh_OdgcU_0m1zpJvs_-17" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;交易系统&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TaTh_OdgcU_0m1zpJvs_-22" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;9.1ETL数据同步&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TaTh_OdgcU_0m1zpJvs_-19" target="TaTh_OdgcU_0m1zpJvs_-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="760" y="500" />
+              <mxPoint x="760" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TaTh_OdgcU_0m1zpJvs_-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TaTh_OdgcU_0m1zpJvs_-19" target="TaTh_OdgcU_0m1zpJvs_-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TaTh_OdgcU_0m1zpJvs_-65" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;同步终端数据&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TaTh_OdgcU_0m1zpJvs_-64">
+          <mxGeometry x="0.2932" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TaTh_OdgcU_0m1zpJvs_-74" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;8.1&lt;/font&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TaTh_OdgcU_0m1zpJvs_-64">
+          <mxGeometry x="0.6329" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TaTh_OdgcU_0m1zpJvs_-19" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;交易库&lt;/font&gt;&lt;/font&gt;" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="350" width="100" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="TaTh_OdgcU_0m1zpJvs_-21" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;历史库&lt;/font&gt;&lt;/font&gt;" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="600" width="100" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="TaTh_OdgcU_0m1zpJvs_-25" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;4.1&lt;/font&gt;&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TaTh_OdgcU_0m1zpJvs_-23" target="TaTh_OdgcU_0m1zpJvs_-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TaTh_OdgcU_0m1zpJvs_-23" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;省中心人员&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TaTh_OdgcU_0m1zpJvs_-27" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;4.2&lt;/font&gt;&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TaTh_OdgcU_0m1zpJvs_-24" target="TaTh_OdgcU_0m1zpJvs_-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TaTh_OdgcU_0m1zpJvs_-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TaTh_OdgcU_0m1zpJvs_-24" target="TaTh_OdgcU_0m1zpJvs_-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="310" y="600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TaTh_OdgcU_0m1zpJvs_-57" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;5.1&lt;/font&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TaTh_OdgcU_0m1zpJvs_-30">
+          <mxGeometry x="0.1778" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TaTh_OdgcU_0m1zpJvs_-24" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;UMP统一登录&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TaTh_OdgcU_0m1zpJvs_-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TaTh_OdgcU_0m1zpJvs_-26" target="TaTh_OdgcU_0m1zpJvs_-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TaTh_OdgcU_0m1zpJvs_-54" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;4.3&lt;/font&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TaTh_OdgcU_0m1zpJvs_-28">
+          <mxGeometry x="-0.1412" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TaTh_OdgcU_0m1zpJvs_-26" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;ilms管理系统&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TaTh_OdgcU_0m1zpJvs_-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TaTh_OdgcU_0m1zpJvs_-29" target="TaTh_OdgcU_0m1zpJvs_-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="760" y="590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TaTh_OdgcU_0m1zpJvs_-58" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;5.2&lt;/font&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TaTh_OdgcU_0m1zpJvs_-31">
+          <mxGeometry x="-0.5882" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TaTh_OdgcU_0m1zpJvs_-29" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;查询历史数据&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TaTh_OdgcU_0m1zpJvs_-59" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;6.1&lt;/font&gt;&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TaTh_OdgcU_0m1zpJvs_-32" target="TaTh_OdgcU_0m1zpJvs_-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TaTh_OdgcU_0m1zpJvs_-32" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;第三方合作运营商&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="635" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TaTh_OdgcU_0m1zpJvs_-35" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;6.2&lt;/font&gt;&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="TaTh_OdgcU_0m1zpJvs_-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="450" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="665" />
+              <mxPoint x="400" y="450" />
+              <mxPoint x="490" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TaTh_OdgcU_0m1zpJvs_-33" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;外部接口接入&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="635" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TaTh_OdgcU_0m1zpJvs_-51" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;3.4&lt;/font&gt;&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TaTh_OdgcU_0m1zpJvs_-49" target="TaTh_OdgcU_0m1zpJvs_-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="680" y="350" />
+              <mxPoint x="680" y="665" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TaTh_OdgcU_0m1zpJvs_-49" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;交易报表&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TaTh_OdgcU_0m1zpJvs_-62" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;前置数据库&lt;/font&gt;&lt;/font&gt;" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="275" y="370" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TaTh_OdgcU_0m1zpJvs_-68" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;7.1&lt;/font&gt;&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TaTh_OdgcU_0m1zpJvs_-66" target="TaTh_OdgcU_0m1zpJvs_-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TaTh_OdgcU_0m1zpJvs_-66" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;ump&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TaTh_OdgcU_0m1zpJvs_-70" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;7.2&lt;/font&gt;&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TaTh_OdgcU_0m1zpJvs_-67" target="TaTh_OdgcU_0m1zpJvs_-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TaTh_OdgcU_0m1zpJvs_-67" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;MQ应用服务&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TaTh_OdgcU_0m1zpJvs_-72" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;7.3&lt;/font&gt;&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.01;entryY=0.569;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="TaTh_OdgcU_0m1zpJvs_-69" target="TaTh_OdgcU_0m1zpJvs_-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="970" y="424" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TaTh_OdgcU_0m1zpJvs_-69" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;基础数据&lt;br&gt;同步模块&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
